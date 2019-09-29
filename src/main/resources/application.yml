@@ -1,9 +1,4 @@
 spring:
-  datasource:
-    url: jdbc:sqlserver://localhost
-    username: sa
-    password: skimuts
-    driver-class-name: org
   main:
     allow-bean-definition-overriding: true
 
